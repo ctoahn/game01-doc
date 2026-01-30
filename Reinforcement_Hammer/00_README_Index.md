@@ -10,14 +10,24 @@
 ## 운영 원칙(추천)
 1) 논의는 Working(01)에서 시작
 2) 결정되면 GDD(02)로 올리고, 숫자는 Ledger(03)로 올린다
-3) 매 대화 끝에는 CHANGELOG와 DECISIONS를 갱신한다(짧게)
+3) 매 작업 단위마다 CHANGELOG와 DECISIONS를 갱신한다(짧게)
 
-## 파일 목록
+## 파일 목록(최신)
 - 00_README_Index.md
 - 00_CHANGELOG.md
 - 00_DECISIONS.md
 - 00_TODO_Next.md
 - 01_GA_Working_Canvas_v1.md
+- 02_GDD_v1.3.md
+- 03_Economy_Balance_Ledger_v0.2.md
+- 04_UX_Onboarding_and_Screens_v0.1.md
+- 05_Season_Rewards_Table_v0.2.md
+- 06_Normal_Progression_Schedule_v0.1.md
+- 07_Level_XP_Ledger_v0.1.md
+- 08_PvP_League_Reset_Rules_v0.1.md
+- 09_Operational_Switches_v0.1.md
+
+## 히스토리(보관)
 - 02_GDD_v1.2.md
 - 03_Economy_Balance_Ledger_v0.1.md
-- templates/CHANGE_REQUEST.md
+- 05_Season_Rewards_Table_v0.1.md
